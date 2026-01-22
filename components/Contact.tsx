@@ -1,8 +1,6 @@
-import React from 'react';
 import SectionWrapper from './SectionWrapper';
 import { CONTACT_INFO } from '../constants';
 import { Instagram, Mail, ArrowUpRight } from 'lucide-react';
-import { motion } from 'framer-motion';
 
 const Contact: React.FC = () => {
   return (
