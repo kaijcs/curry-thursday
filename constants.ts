@@ -5,11 +5,11 @@ import { EventDate, Testimonial } from './types';
 // ==========================================
 export const NEXT_EVENTS: EventDate[] = [
   {
-    date: "01/22",
+    date: "02/12",
     time: "18:00",
   },
   {
-    date: "02/05",
+    date: "02/26",
     time: "18:00",
   }
 ];
